@@ -6,14 +6,14 @@
 
 <h1 align="center">Hi 👋, I'm Symun Hossain Shifat</h1>
 
-<h3 align="center">Frontend Web Developer | React & Next.js Learner 🚀</h3>
+<h3 align="center">Full Stack Web Developer | React & Next.js Learner 🚀</h3>
 
 ## 👨‍💻 About Me
 
 Hi, I'm Symun Hossain Shifat 👋  
 
 🌱 Passionate Web Developer from Bangladesh 
-💻 Currently learning React, Next.js & MongoDB  
+💻 Currently learning React, Better-auth , Js , Next.js & MongoDB  
 🚀 Building modern and responsive web applications  
 📚 Exploring full-stack development step by step  
 🎯 Dreaming to become a Software Engineer at Google  
