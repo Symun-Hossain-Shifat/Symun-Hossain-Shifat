@@ -1,6 +1,12 @@
-# Hi there 👋
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Symun%20Hossain%20Shifat&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+
+
+<h1 align="center">Hi 👋, I'm Symun Hossain Shifat</h1>
+
+<h3 align="center">Frontend Web Developer | React & Next.js Learner 🚀</h3>
 
 ## 👨‍💻 About Me
 
