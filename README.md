@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Symun Hossain Shifat</h1>
 
-<h3 align="center">Full Stack Web Developer | React & Next.js Learner 🚀</h3>
+<h3 align="center">Full Stack Web Developer | React & Next.js </h3>
 
 ## 👨‍💻 About Me
 
